@@ -1,18 +1,18 @@
 #To move Eye point:
-w: up
-s: down
-a: left
-d: right
-i: zoom in
+w: up;
+s: down;
+a: left;
+d: right;
+i: zoom in;;
 o: zoom out
       
 #To move Camera point:
-j: up
-n: down
-b: left
-m: right
-l: move nearer
-k: move far
+j: up;
+n: down;
+b: left;
+m: right;
+l: move nearer;
+k: move far;
       
 #Press q to move to default position
       
